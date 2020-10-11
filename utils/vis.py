@@ -5,6 +5,9 @@ import numpy as np
 import os
 from pathlib import Path
 
+#import matplotlib
+#matplotlib.rcParams['animation.embed_limit'] = 50
+
 import matplotlib.pyplot as plt
 import mpl_toolkits.mplot3d.axes3d
 from matplotlib.animation import FuncAnimation, writers

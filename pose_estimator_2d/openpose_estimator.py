@@ -1,4 +1,6 @@
 from .estimator_2d import Estimator2D
+import sys
+sys.path.append('/home/nvidia/projects/openpose/build/python')
 from openpose import pyopenpose as op
 
 

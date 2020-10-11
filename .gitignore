@@ -4,5 +4,6 @@ __pycache__/
 .idea/
 config_file/
 models/
+miscs/
 *.pyc
 *.swp
